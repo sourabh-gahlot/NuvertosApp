@@ -1,0 +1,1 @@
+{"root":["./src/compoundroutes.ts","./src/compounds.test.ts","./src/db.ts","./src/index.ts","./src/valdiationschema.ts","./src/controller/compoundcontroller.ts","./src/models/compound.ts"],"version":"5.9.2"}
