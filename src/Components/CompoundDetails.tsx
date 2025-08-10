@@ -1,9 +1,9 @@
 import { useEffect, useState } from "react";
-import CompoundCard, { type Compound } from "./CompoundCard";
+import { type Compound } from "./CompoundCard";
 import { useNavigate, useParams } from "react-router";
 import axios from "axios";
 import { Button } from "./ui/button";
-import { ArrowLeft, Car, Cross, Edit, Save } from "lucide-react";
+import { ArrowLeft, Edit, Save } from "lucide-react";
 import { Card, CardContent, CardHeader } from "./ui/card";
 import { Input } from "./ui/input";
 
